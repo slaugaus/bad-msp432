@@ -6,3 +6,5 @@ Video is 32x24 @ 10 fps (upscaled to 64x48), "compressed" losslessly into 2x4 (a
 I wanted to use the serial mode of the DFPlayer, but I could not get the MSP432 to send it valid data. Maybe I have the baud rate wrong. Ultimately it doesn't matter, since the DFPlayer also has a "next track button" pin.
 
 Oh right, I should probably mention that this is my final project for ECEN 260 (Microprocessor-Based System Design) at Brigham Young University-Idaho. I have to turn in the hardware after I'm done, so I won't be able to improve this.
+
+![circuit.png](circuit.png)
