@@ -9,4 +9,6 @@ I wanted to use the serial mode of the DFPlayer, but I could not get the MSP432 
 
 Oh right, I should probably mention that this is my final project for ECEN 260 (Microprocessor-Based System Design) at Brigham Young University-Idaho. I have to turn in the hardware after I'm done, so I won't be able to improve this.
 
+And here's a schematic:
+
 ![circuit.png](circuit.png)
